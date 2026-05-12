@@ -5,6 +5,7 @@ Estudante de **Sistemas de Informação na FIAP** e apaixonado por tecnologia, a
 ### 🚀 Sobre mim
 - 👨‍💻 Atualmente trabalho como **Desenvolvedor SAP CPI na HRST Brasil**.
 - 🎓 Cursando o segundo ano de Sistemas de Informação.
+- 🤖 Conquistei o **3º lugar na RoboCup FIAP 2025** com um projeto de robô de combate.
 - 🌱 Focado em aprender mais sobre integrações, backend e arquitetura de sistemas.
 
 ### 🛠️ Tecnologias e Ferramentas
