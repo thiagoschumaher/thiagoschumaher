@@ -11,7 +11,7 @@ Estudante de **Sistemas de Informação na FIAP** e apaixonado por tecnologia, f
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,postgres,spring,postman,git,github" alt="Meus ícones de habilidades" />
+    <img src="https://skillicons.dev/icons?i=java,js,postgres,spring,postman,git,github,idea" alt="Meus ícones de habilidades" />
   </a>
 </p>
 
